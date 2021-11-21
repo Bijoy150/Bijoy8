@@ -1,0 +1,80 @@
+.header{
+	background-color: rgb(255, 8, 8);
+	height: 100px;
+	width: 100%;
+ text-align: center;
+margin: 0%;
+padding: 0%;
+float: left;
+font-size: 40px;
+}
+.article{
+    background-color: blue;
+    height: 600px;
+    width: 65%;
+    margin: 10px; 
+    text-align: center;
+    float: left;
+}
+.side_box{
+    background-color: darkgreen;
+    height: 290px;
+    width: 30%;
+    text-align: center;
+    float: right;
+    margin: 10px;
+}
+.side_box{
+    background-color: darkgreen;
+    height: 290px;
+    width: 30%;
+    text-align: center;
+    float: right;
+    margin: 10px;
+}
+.fotter{
+	background-color: brown;
+	height: 100px;
+	float: left;
+	width: 100%;
+text-align: center;
+margin: 10px;
+
+}
+.manu {
+    float: left;
+    padding-top: 15px;
+    padding-bottom: 15px;
+border: 2px solid red;
+width: 100%;
+margin: 0%;
+padding: 2px;
+}
+
+
+
+
+
+
+.manu ul {
+  list-style:none;
+  margin: 0px;
+}
+.manu ul li{
+    
+    float: left;
+    padding:5px;
+    margin: 10px; 
+
+}
+.manu ul li a{
+    
+    text-decoration: none;
+    color: darkorange;
+    padding-bottom: 10px;
+
+}
+.manu ul li a:hover{
+    border-bottom: 5px solid blue;
+    margin: 15px;
+}
